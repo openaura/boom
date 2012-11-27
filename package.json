@@ -1,0 +1,17 @@
+{
+    "name": "boom",
+    "description": "Simple template for Express/coffee apps",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git"
+    },
+    "dependencies": {
+        "coffee-script": "~1.2",
+        "express": "3.x",
+        "underscore": "= 1.2.2",
+        "stitch": "~0.3.3"
+    },
+    "devDependencies": {
+      "mocha": "~1.7"
+    }
+}
